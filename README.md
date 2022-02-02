@@ -1,5 +1,7 @@
 # Women at Sonatype
+<p align="center">
 <img width="350" alt="Screen Shot 2019-12-06 at 1 29 38 PM" src="https://user-images.githubusercontent.com/15128587/152194922-780bbfda-ffb4-4c77-a145-7832a6045703.png">
+ </p>
 
 
 
